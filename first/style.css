@@ -1,0 +1,16 @@
+
+body{
+	background-color: #2e86de;
+	font-family: 'Jua', sans-serif;
+}
+#panel, #flip {
+    padding: 15px;
+    text-align: center;
+    background-color: #ee5253;
+    border: solid 1px #576574;
+}
+#panel {
+    padding: 20px;
+    display: none;
+    text-align: left;
+}
